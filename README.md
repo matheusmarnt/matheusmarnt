@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/FilamentPHP-FF4F00?style=for-the-badge&logo=filament&logoColor=white" alt="Filament">
+  <img src="https://img.shields.io/badge/FilamentPHP-FFCF00?style=for-the-badge&logo=filament&logoColor=white" alt="Filament">
   <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinejs&logoColor=white" alt="Alpine.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
