@@ -10,7 +10,7 @@
   <a href="#-español">🇪🇸 Español</a>
 </p>
 
-<img src="https://img.shields.io/badge/9%2B_anos_de_experiência-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Experiência">
+<img src="https://img.shields.io/badge/6%2B_anos_de_experiência-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Experiência">
 <img src="https://img.shields.io/badge/Open_to_Opportunities-00C853?style=for-the-badge" alt="Open to opportunities">
 
 </div>
@@ -27,8 +27,7 @@ Pós-graduado em Arquitetura de Software • Especialista em Prompt Engineering 
 </h3>
 
 <p>
-<strong>Diretor de Desenvolvimento Tecnológico</strong> na Prefeitura de Gurupi (TO) — Secretaria de Ciência, Tecnologia e Inovação<br>
-<strong>Sócio-proprietário</strong> da Axigov — Startup Govtech
+<strong>Diretor de Desenvolvimento Tecnológico</strong> na Prefeitura de Gurupi (TO) — Secretaria de Ciência, Tecnologia e Inovação
 </p>
 
 </div>
@@ -62,10 +61,7 @@ Pós-graduado em Arquitetura de Software • Especialista em Prompt Engineering 
 Projeto e desenvolvo sistemas full stack que modernizam a entrega de serviços públicos, com Laravel, FilamentPHP, Livewire, Tailwind CSS e Flutter. Administro ambientes de produção em Linux, com deploy containerizado (Docker) e configuração de Nginx/Apache, garantindo conformidade com a LGPD.
 Principais sistemas: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** e o site institucional **Uniclube**.
 
-- **Sócio-proprietário** — **Axigov** (Startup Govtech)
-Construindo tecnologia para modernizar a gestão pública com foco em eficiência, transparência e conformidade legal (LGPD).
-
-- +9 anos como **Full Stack Developer** especializado em Laravel, FilamentPHP, Livewire v3/v4, Alpine.js e Flutter.
+- +6 anos como **Full Stack Developer** especializado em Laravel, FilamentPHP, Livewire v3/v4, Alpine.js e Flutter.
 
 ### 📬 Vamos Conectar?
 
@@ -97,8 +93,7 @@ Postgraduate in Software Architecture • Specialist in Prompt Engineering & Con
 </h3>
 
 <p>
-<strong>Director of Technology Development</strong> at the City of Gurupi (TO, Brazil) — Department of Science, Technology and Innovation<br>
-<strong>Co-owner</strong> of Axigov — Govtech Startup
+<strong>Director of Technology Development</strong> at the City of Gurupi (TO, Brazil) — Department of Science, Technology and Innovation
 </p>
 
 </div>
@@ -132,10 +127,7 @@ Postgraduate in Software Architecture • Specialist in Prompt Engineering & Con
 I design and build full-stack systems that modernize the delivery of public services, using Laravel, FilamentPHP, Livewire, Tailwind CSS and Flutter. I manage production environments on Linux with containerized deployments (Docker) and Nginx/Apache configuration, ensuring compliance with data protection regulations (LGPD).
 Key systems: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** and the **Uniclube** institutional website.
 
-- **Co-owner** — **Axigov** (Govtech Startup)
-Building technology to modernize public administration with a focus on efficiency, transparency and legal compliance (LGPD).
-
-- 9+ years as a **Full Stack Developer** specialized in Laravel, FilamentPHP, Livewire v3/v4, Alpine.js and Flutter.
+- 6+ years as a **Full Stack Developer** specialized in Laravel, FilamentPHP, Livewire v3/v4, Alpine.js and Flutter.
 
 ### 📬 Let's Connect
 
@@ -167,8 +159,7 @@ Posgrado en Arquitectura de Software • Especialista en Prompt Engineering & Co
 </h3>
 
 <p>
-<strong>Director de Desarrollo Tecnológico</strong> en la Alcaldía de Gurupi (TO, Brasil) — Secretaría de Ciencia, Tecnología e Innovación<br>
-<strong>Socio propietario</strong> de Axigov — Startup Govtech
+<strong>Director de Desarrollo Tecnológico</strong> en la Alcaldía de Gurupi (TO, Brasil) — Secretaría de Ciencia, Tecnología e Innovación
 </p>
 
 </div>
@@ -202,10 +193,7 @@ Posgrado en Arquitectura de Software • Especialista en Prompt Engineering & Co
 Diseño y desarrollo sistemas full stack que modernizan la prestación de servicios públicos, utilizando Laravel, FilamentPHP, Livewire, Tailwind CSS y Flutter. Administro entornos de producción en Linux con despliegue en contenedores (Docker) y configuración de Nginx/Apache, garantizando el cumplimiento de la protección de datos (LGPD).
 Sistemas principales: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** y el sitio institucional **Uniclube**.
 
-- **Socio propietario** — **Axigov** (Startup Govtech)
-Construyendo tecnología para modernizar la gestión pública con foco en eficiencia, transparencia y cumplimiento legal (LGPD).
-
-- Más de 9 años como **Full Stack Developer** especializado en Laravel, FilamentPHP, Livewire v3/v4, Alpine.js y Flutter.
+- Más de 6 años como **Full Stack Developer** especializado en Laravel, FilamentPHP, Livewire v3/v4, Alpine.js y Flutter.
 
 ### 📬 Conectemos
 
