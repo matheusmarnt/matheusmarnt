@@ -23,7 +23,7 @@
 
 <h3>
 Bacharel em Engenharia de Software • Pós-graduado em Inteligência Artificial & Machine Learning<br>
-Pós-graduado em Arquitetura de Software • Especialista em Prompt Engineering & Context Engineering
+Especialista em Harness Engineering
 </h3>
 
 <p>
@@ -47,7 +47,7 @@ Pós-graduado em Arquitetura de Software • Especialista em Prompt Engineering 
 </p>
 
 **Especialidades Avançadas**
-• **Prompt Engineering** • **Context Engineering** • **Machine Learning / Deep Learning** • **Arquitetura de Software**
+• **Harness Engineering** • **Machine Learning / Deep Learning** • **Arquitetura de Software**
 • **Compliance & LGPD** • Soluções Govtech • DevOps • Governança de Dados • Integrações Governamentais
 
 ### 🚀 Projetos em Destaque
@@ -74,7 +74,7 @@ Principais sistemas: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** e o sit
 </div>
 
 **Aberto a:**
-- Consultorias em **Prompt Engineering**, **Context Engineering** e **IA aplicada**
+- Consultorias em **Harness Engineering** e **IA aplicada**
 - Projetos e parcerias em **Govtech**
 - Arquitetura de Software e desenvolvimento com **Laravel + Filament**
 - Colaborações técnicas e mentorias
@@ -89,7 +89,7 @@ Principais sistemas: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** e o sit
 
 <h3>
 Bachelor's in Software Engineering • Postgraduate in Artificial Intelligence & Machine Learning<br>
-Postgraduate in Software Architecture • Specialist in Prompt Engineering & Context Engineering
+Specialist in Harness Engineering
 </h3>
 
 <p>
@@ -113,7 +113,7 @@ Postgraduate in Software Architecture • Specialist in Prompt Engineering & Con
 </p>
 
 **Advanced Specialties**
-• **Prompt Engineering** • **Context Engineering** • **Machine Learning / Deep Learning** • **Software Architecture**
+• **Harness Engineering** • **Machine Learning / Deep Learning** • **Software Architecture**
 • **Compliance & Data Protection (LGPD)** • Govtech Solutions • DevOps • Data Governance • Government Integrations
 
 ### 🚀 Featured Projects
@@ -140,7 +140,7 @@ Key systems: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** and the **Unicl
 </div>
 
 **Open to:**
-- Consulting in **Prompt Engineering**, **Context Engineering** and **applied AI**
+- Consulting in **Harness Engineering** and **applied AI**
 - **Govtech** projects and partnerships
 - Software Architecture and development with **Laravel + Filament**
 - Technical collaborations and mentoring
@@ -155,7 +155,7 @@ Key systems: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** and the **Unicl
 
 <h3>
 Licenciado en Ingeniería de Software • Posgrado en Inteligencia Artificial & Machine Learning<br>
-Posgrado en Arquitectura de Software • Especialista en Prompt Engineering & Context Engineering
+Especialista en Harness Engineering
 </h3>
 
 <p>
@@ -179,7 +179,7 @@ Posgrado en Arquitectura de Software • Especialista en Prompt Engineering & Co
 </p>
 
 **Especialidades Avanzadas**
-• **Prompt Engineering** • **Context Engineering** • **Machine Learning / Deep Learning** • **Arquitectura de Software**
+• **Harness Engineering** • **Machine Learning / Deep Learning** • **Arquitectura de Software**
 • **Cumplimiento & Protección de Datos (LGPD)** • Soluciones Govtech • DevOps • Gobernanza de Datos • Integraciones Gubernamentales
 
 ### 🚀 Proyectos Destacados
@@ -206,7 +206,7 @@ Sistemas principales: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** y el s
 </div>
 
 **Abierto a:**
-- Consultorías en **Prompt Engineering**, **Context Engineering** e **IA aplicada**
+- Consultorías en **Harness Engineering** e **IA aplicada**
 - Proyectos y alianzas en **Govtech**
 - Arquitectura de Software y desarrollo con **Laravel + Filament**
 - Colaboraciones técnicas y mentorías
