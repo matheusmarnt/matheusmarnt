@@ -57,7 +57,7 @@ Especialista em Harness Engineering
 
 ### 💼 Experiência Profissional
 
-- **Diretor de Desenvolvimento Tecnológico** — Prefeitura Municipal de Gurupi/TO *(desde 2017)*
+- **Diretor de Desenvolvimento Tecnológico** — Prefeitura Municipal de Gurupi/TO *(desde 2020)*
 Projeto e desenvolvo sistemas full stack que modernizam a entrega de serviços públicos, com Laravel, FilamentPHP, Livewire, Tailwind CSS e Flutter. Administro ambientes de produção em Linux, com deploy containerizado (Docker) e configuração de Nginx/Apache, garantindo conformidade com a LGPD.
 Principais sistemas: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** e o site institucional **Uniclube**.
 
@@ -123,7 +123,7 @@ Specialist in Harness Engineering
 
 ### 💼 Professional Experience
 
-- **Director of Technology Development** — City of Gurupi/TO, Brazil *(since 2017)*
+- **Director of Technology Development** — City of Gurupi/TO, Brazil *(since 2020)*
 I design and build full-stack systems that modernize the delivery of public services, using Laravel, FilamentPHP, Livewire, Tailwind CSS and Flutter. I manage production environments on Linux with containerized deployments (Docker) and Nginx/Apache configuration, ensuring compliance with data protection regulations (LGPD).
 Key systems: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** and the **Uniclube** institutional website.
 
@@ -189,7 +189,7 @@ Especialista en Harness Engineering
 
 ### 💼 Experiencia Profesional
 
-- **Director de Desarrollo Tecnológico** — Alcaldía de Gurupi/TO, Brasil *(desde 2017)*
+- **Director de Desarrollo Tecnológico** — Alcaldía de Gurupi/TO, Brasil *(desde 2020)*
 Diseño y desarrollo sistemas full stack que modernizan la prestación de servicios públicos, utilizando Laravel, FilamentPHP, Livewire, Tailwind CSS y Flutter. Administro entornos de producción en Linux con despliegue en contenedores (Docker) y configuración de Nginx/Apache, garantizando el cumplimiento de la protección de datos (LGPD).
 Sistemas principales: **FlowBan**, **Atende Bem OS**, **Infra Atende OS** y el sitio institucional **Uniclube**.
 
